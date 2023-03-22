@@ -1,5 +1,5 @@
 //Net Salary Calculator
-//takes two parameters
+//takes two parameters 
 function calculateNetSalary(basicSalary, benefits){
     let grossIncome = basicSalary + benefits;
     let paye;
@@ -52,4 +52,4 @@ function calculateNetSalary(basicSalary, benefits){
     let netSalary = (grossIncome - (paye + nhifdeductions + nssfDeductions));
     console.log(netSalary);
 }
-calculateNetSalary(1000000, 50)
+calculateNetSalary()
