@@ -56,7 +56,7 @@ Within the code block, we are going to use the if and else if statements. The fi
 In this challenge you are required to create a program which will calculate an individual's Net Salary by getting the inputs of basic salary and benefits. 
 
 ## Challenge Context
-This challenge requires one to write a program whose major task is to calculate an individual's Net Salary by getting the inputs of basic salary and benefits. You are suppossed to caculate the payee(i.e. Tax), NHIF Deductions, NSSf Desuctions , gross salary and, net salary.
+This challenge requires one to write a program whose major task is to calculate an individual's Net Salary by getting the inputs of basic salary and benefits. You are suppossed to caculate the payee(i.e. Tax), NHIF Deductions, NSSF Deductions , gross salary and, net salary.
 The resources one is suppossed to use are:
 - https://www.aren.co.ke/payroll/taxrates.htm Links to an external site.
 
